@@ -1,0 +1,56 @@
+[
+    {
+      "id": "1",
+      "name": "Introduction to User Experience Design",
+      "time": "9 days",
+      "rating": "4.5",
+      "price": "8500",
+      "img": "https://www.mindinventory.com/blog/wp-content/uploads/2021/11/mobile-ux-design-best-practices.png",
+      "description": "The focus of this course is to introduce the learner to User Experience (UX) Design User Experience design is design that is user centered. The goal is to design artifacts that allow the users to meet their needs in the most effective efficient and satisfying manner. The course mantra is that “Design is a systematic and data driven process.” Design is systematic because it is based on a set of techniques and also on a cycle of discovery."
+    },
+    {
+      "id": "2",
+      "name": "Cybersecurity for Everyone",
+      "time": "10 days",
+      "rating": "5.0",
+      "price": "5000",
+      "img": "https://images.ctfassets.net/aq13lwl6616q/1nSOi4H0zAGJOhK1VTKWDK/09cbe2160152366ce3f0edfc97e96010/Cybersecurity_-_Academy_Thumbnail_2.png?w=700&fm=webp",
+      "description": "Cybersecurity affects everyone, including in the delivery of basic products and services. If you or your organization want to better understand how to address your cybersecurity, this is the course for you and your colleagues to take -- from seasoned professionals to your non-technical colleagues."
+    },
+    {
+      "id": "3",
+      "name": "Bitcoin and Cryptocurrency Technologies",
+      "time": "7 days",
+      "rating": "4.7",
+      "price": "6000",
+      "img": "https://variety.com/wp-content/uploads/2021/12/Bitcoin-Cryptocurrency-Placeholder.jpg",
+      "description": "To really understand what is special about Bitcoin, we need to understand how it works at a technical level. We will address the important questions about Bitcoin"
+    },
+    {
+      "id": "4",
+      "name": "Programming with a Purpose",
+      "time": "10 days",
+      "rating": "4.0",
+      "price": "9000",
+      "img": "https://www.clio.com/wp-content/uploads/2020/08/Clio_2020-Blog_Image-Programming_for_Lawyers-750x375.png",
+      "description": "The basis for education in the last millennium was “reading, writing, and arithmetic;” now it is reading, writing, and computing. Learning to program is an essential part of the education of every student, not just in the sciences and engineering, but in the arts, social sciences, and humanities, as well."
+    },
+    {
+      "id": "5",
+      "name": "Build a Full Website using WordPress",
+      "time": "7 days",
+      "rating": "4.9",
+      "price": "7000",
+      "img": "https://webgenix.com.au/wp-content/uploads/2021/10/Wordpress-plugins.jpg",
+      "description": "By the end of this project, you will create a full web-site that is attractive and user friendly using a free content management system, WordPress. You will learn how to create a website utilizing themes and plug-ins using the web creation tool."
+    },
+    {
+      "id": "6",
+      "name": "Command Line Basics in Linux",
+      "time": "4 days",
+      "rating": "5.0",
+      "price": "7500",
+      "img": "https://www.kaspersky.com/content/en-global/images/repository/isc/2017-images/linux.jpg",
+      "description": "In this one-hour, project-based course, you will learn your first commands for the Linux command-line. You will learn how to bring up the manual for any Linux command."
+    }
+  ]
